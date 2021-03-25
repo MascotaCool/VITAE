@@ -1,5 +1,3 @@
-# VITAE
-Hacer la hoja de vida 
 <!doctype html>
 <meta charset="utf-8">
 <link rel="icon" type="image/png"  href="foto/cv.png">
